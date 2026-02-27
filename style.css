@@ -5,7 +5,7 @@ display: flex;
 }
 .header{
 flex: 15%;
-  background-color: #f8e3d0;
+  background-color: blue;
 }
 .menu{
 flex: 10%;
