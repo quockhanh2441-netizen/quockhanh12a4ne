@@ -1,5 +1,5 @@
 .container{
-display: plex;
+display: flex;
   flex-direction: column;
   heigh: 100vh;
 }
