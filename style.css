@@ -13,7 +13,7 @@ flex: 15%;
 }
 .content{
 flex: 60%;
-  background-color: green;
+  background-color: white;
 }
 .content iframe{
   flex: 1;
