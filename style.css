@@ -8,7 +8,7 @@ flex: 15%;
   background-color: lightgray;
 }
 .menu{
-flex: 15%;
+flex: 5%;
   background-color: darkgray;
   color: white;
   display: flex;
@@ -21,7 +21,7 @@ background-color: lightgray;
   color: black;
 }
 .content{
-flex: 60%;
+flex: 70%;
   background-color: white;
 }
 .content iframe{
